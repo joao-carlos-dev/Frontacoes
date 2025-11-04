@@ -82,18 +82,3 @@ body {
 .button button[type="submit"]:hover {
     background-color: #dfbbbb;
 }
-
-@media (max-width: 768px) {
-    .container {
-        padding: 20px;
-        margin: 20px auto;
-    }
-    
-    .forms form {
-        grid-template-columns: 1fr; 
-    }
-
-    .button {
-        justify-content: center;
-    }
-}

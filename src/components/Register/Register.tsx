@@ -188,10 +188,9 @@ const Register = () => {
               />
             </div>
 
-            {/* O botão DEVE ser movido para dentro do <form> para que o grid o controle, ou mantemos ele como antes e centralizamos. Vou manter como antes e ajustar a estética. */}
           </form>
         </div>
-        {/* O botão pode permanecer aqui para ser mais fácil de estilizar separadamente. */}
+
         <div className="button">
           <button type="submit">Cadastrar</button>
         </div>
